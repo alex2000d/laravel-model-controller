@@ -7,7 +7,7 @@
             <div class="col-6">
                <ul class="list-unstyled gap-3 mt-4 d-flex justify-content-center text-white">
                   <li><a class="nav-link" href="{{route('homepage')}}">home</a></li>
-                  <li><a class="nav-link" href="">movies</a></li>
+                  <li><a class="nav-link" href="{{route('movies')}}">movies</a></li>
                </ul>
             </div>
         </div>
